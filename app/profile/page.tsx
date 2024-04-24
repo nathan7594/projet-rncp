@@ -20,7 +20,7 @@ export default async function ProfilePage() {
         <div className="bg-ct-dark-100 mx-auto flex h-[20rem] max-w-4xl items-center justify-center rounded-md">
           <div>
             <p className="mb-3 text-center text-5xl font-semibold">
-              Profile Page
+              Profile Page.
             </p>
             <div className="flex items-center gap-8">
               <div>
